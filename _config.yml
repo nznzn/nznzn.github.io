@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
-is_project_page: false
+site.github:
+  is_project_page: false
 title: Site is currently under construction.
